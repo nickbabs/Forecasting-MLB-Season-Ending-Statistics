@@ -1,6 +1,5 @@
 ## MLB-Season-Ending-Statistics-Predictors
-This repository contains a project that predicts the final value of certain baseball statistics at the end of the 2021 baseball season. 
-The project uses pre-processed data to explore the best ways to make predictions.
+This project is a machine learning focused study that is aimed to predict the final value of certain baseball statistics at the end of the 2021 baseball season. Here I perform numerous machine learning related tasks such as pre-processing data, exploratory data analysis, data scaling, and model building.
 
 ### Prediction Process
 The prediction process involves predicting the amount of HR per player in the 2016 season, then predicting the amount of HR per player in 2017. 
